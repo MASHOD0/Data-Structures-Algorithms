@@ -2,11 +2,13 @@
 # encoding: utf-8
 
 """
+    Hash Table implementations:
+        1. Simple hash Table
+        2. Hash Table with Chaining.
+        3. Hash Table with Linear Probing.
+
     @author: Mohammed Ataaur Rahaman
 """
-
-
-__author__ = 'Mohammed Ataaur Rahaman'
 
 
 class HashTable:
