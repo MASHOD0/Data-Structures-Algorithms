@@ -3,7 +3,7 @@
 
 """
     Hash Table implementations:
-        1. Simple hash Table
+        1. Simple hash Table - Direct access table
         2. Hash Table with Chaining.
         3. Hash Table with Linear Probing.
 
